@@ -1,0 +1,5 @@
+streamlit
+numpy
+opencv-python-headless<5
+pillow
+scikit-learn==1.8.0
